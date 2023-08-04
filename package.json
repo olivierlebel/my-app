@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "1.0.0",
   "main": "AppEntry.js",
-  "homepage": "http://dev.github.io/expo-gh-pages",
+  "homepage": "http://olivierlebel.github.io/my-app",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
